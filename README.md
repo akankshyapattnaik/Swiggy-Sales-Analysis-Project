@@ -1,4 +1,4 @@
-**🍽️ Swiggy Sales Analysis — Exploratory Data Analysis
+# Swiggy Sales Analysis
 
 An end-to-end Exploratory Data Analysis (EDA) of Swiggy food delivery transaction data, uncovering revenue trends, geographic demand patterns, restaurant performance, and customer satisfaction signals across 197,430 orders.
 
@@ -19,10 +19,3 @@ The analysis combines pandas-based aggregation with matplotlib, seaborn, and plo
 📊 Dataset
 
 DetailValueTotal Orders197,430Columns10 (State, City, Order Date, Restaurant Name, Location, Category, Dish Name, Price, Rating, Rating Count)Time PeriodJanuary 2025 – August 2025Total Revenue₹5.30 Cr (₹53,012,505.77)Average Order Value₹268.51Average Rating4.34 / 5**
-
-# Swiggy Sales Analysis
-
-Based on the original work by [aayusharies](https://github.com/aayusharies/-Swiggy-Sales-Analysis-Exploratory-Data-Analysis).
-
-## My additions
-- (describe what you added or changed)
